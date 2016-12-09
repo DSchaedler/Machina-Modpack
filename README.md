@@ -10,7 +10,7 @@ This pack is designed to be played in singleplayer, multiplayer or team-multipla
 Players should find this pack to be a good balance between vanilla minecraft, technology oriented packs, and qualtiy of life additions. I purposely excluded mods that make the base game harder, or have glaring incompatibilities with standardized systems.
 
 ## Installation:
-1. Download [The Curse profile](https://github.com/DrakeShady/Machina-Modpack/raw/master/Machina%20Modded-0.0.1.zip)
+1. Download the [Curse Profile](https://github.com/DrakeShady/Machina-Modpack/raw/master/Machina%20Modded-0.0.1.zip)
 2. Download the [Curse Client](https://www.curse.com/download), make an account and log in.
 3. In curse, click on the creeper face in the bar on the left.
 4. Click "Create Custom Profile".
