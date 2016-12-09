@@ -1,3 +1,8 @@
+Version 0.0.2 - 18 December 2016
+By DrakeShady
+
+- Removed JustEnough Buttons. It was never meant to be.
+
 Version 0.0.1 - 18 December 2016
 By DrakeShady
 
