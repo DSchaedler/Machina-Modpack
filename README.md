@@ -10,7 +10,12 @@ This pack is designed to be played in singleplayer, multiplayer or team-multipla
 Players should find this pack to be a good balance between vanilla minecraft, technology oriented packs, and qualtiy of life additions. I purposely excluded mods that make the base game harder, or have glaring incompatibilities with standardized systems.
 
 ## Installation:
- 1. 
+1. Download the [Curse Client](https://www.curse.com/download), make an account and log in.
+2. Download the 
+3. Click on the creeper face in the bar on the left.
+4. Click "Create Custom Profile".
+5. Near the top, click "Import" and select the .zip file you downloaded.
+
 
 ## Modpack Usage Information
 You may use this modpack however you please, just please retain any credits and support links when distributing or modifying it. I ask that if you make a large change to the pack, you simply make another pack not associated with this one.
